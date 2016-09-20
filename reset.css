@@ -1,0 +1,8 @@
+/* Code tidied up by ScrapBook */
+* { margin: 0px; padding: 0px; font-family: "Microsoft YaHei"; }
+h1, h2, h3, h4, h5, h6 { font-weight: normal; }
+img { border: medium none; }
+li { list-style: outside none none; }
+a { text-decoration: none; color: white; }
+.fl { float: left; }
+.fr { float: right; }
