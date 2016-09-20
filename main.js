@@ -1,4 +1,3 @@
-
 $(function(){
 	$(window).resize();
 	$("#block-nav").css("z-index", 1);
