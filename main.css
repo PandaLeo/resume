@@ -3,8 +3,8 @@ section { width: 100%; overflow: hidden; }
 h2 { font-size: 46px; font-weight: normal; }
 #block-firstPage { height: 1000px; width: 100%; background-color: rgb(221, 240, 237); font-size: 100px; color: rgb(73,90,128); text-align: center; }
 .blockTitle { display: none; position: absolute; margin: 0px auto; width: 100%; }
-#fstPage-down { position: absolute; bottom: 16px; height: 18px; width: 100%; }
-#fstPage-down a { display: block; height: 18px; width: 32px; margin: 0px auto; background: transparent url("down.png") no-repeat scroll center center; }
+#fstPage-down { position: absolute; bottom: 16px; height: 36px; width: 100%; }
+#fstPage-down a { display: block; height: 36px; width: 64px; margin: 0px auto; background: transparent url("down.png") no-repeat scroll center center; }
 #block-nav { position: relative; top: 0px; height: 52px; background-color: rgb(66, 71, 75); color: white; }
 #block-nav a { padding: 0px 25px; font-size: 14px; line-height: 52px; cursor: pointer; z-index: 1; color: white; }
 #block-nav a:hover { color: rgb(153, 153, 153); }
