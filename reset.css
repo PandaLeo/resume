@@ -2,6 +2,7 @@
 h1, h2, h3, h4, h5, h6 { font-weight: normal; }
 img { border: medium none; }
 li { list-style: outside none none; }
-a { text-decoration: none; color: white; }
+a { text-decoration: none; color:rgb(55,62,64); }
+#block-intro a { text-decoration: none; color:rgb(73,90,128); }
 .fl { float: left; }
 .fr { float: right; }
