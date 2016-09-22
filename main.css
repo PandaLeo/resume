@@ -52,6 +52,7 @@ h2 { font-size: 46px; font-weight: normal; }
 #block-prjEXP .prj .prj-logo { display: block; margin: 0px auto; height: 180px; width: 180px; border-radius: 50%; }
 #block-prjEXP .prj .prj-title { height: auto; width: 240px; margin: 20px 0px; font-size: 26px; text-align: center; }
 #block-prjEXP .prj .prj-intro { height: auto; width: 240px; font-size: 20px; text-indent: 1em; }
+#block-prjEXP .prj .prj-ps { height: auto; width: 240px; font-size: 14px; text-indent: 1em; }
 #block-prjEXP #prj-rmt .prj-logo { background: rgb(237, 100, 97) url("rmt.png") no-repeat scroll center center; border: 4px solid rgb(255, 255, 255); }
 #block-prjEXP #prj-fir .prj-logo { background: rgb(156, 88, 182) url("fir.png") no-repeat scroll center center; border: 4px solid rgb(255, 255, 255); }
 #block-prjEXP #prj-integralSystem .prj-logo { background: rgb(22, 204, 112) url("integralSystem.png") no-repeat scroll center center; border: 4px solid rgb(255, 255, 255); }
